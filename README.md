@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nadavson02@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xKwjCRPSpr3S63pcaVQEyrtQsfsk46GZzz9KaQfgZBQ/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1xKwjCRPSpr3S63pcaVQEyrtQsfsk46GZzz9KaQfgZBQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I like to play basketball as well as coding**
 
