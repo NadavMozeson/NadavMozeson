@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/NadavMozeson/NadavMozeson/blob/main/Resume%20-%20Nadav%20Mozeson.pdf](https://github.com/NadavMozeson/NadavMozeson/blob/main/Resume%20-%20Nadav%20Mozeson.pdf)
 
-- ⚡ Fun fact **I like to play basketball as well as coding**
+- ⚡ Fun fact **I like to play basketball as much as coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
