@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadavmozeson&label=Profile%20views&color=121212&style=flat" alt="nadavmozeson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadavmozeson" alt="nadavmozeson" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadavMozeson" alt="nadavmozeson" /></a> </p>
 
 - 🔭 I’m currently working on [BuildingAI-Course](https://github.com/NadavMozeson/BuildingAI-Course)
 
