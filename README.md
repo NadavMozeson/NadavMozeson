@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadavMozeson" alt="nadavmozeson" /></a> </p>
 
-- 🔭 I’m currently working on [BuildingAI-Course](https://github.com/NadavMozeson/BuildingAI-Course)
+- 🔭 I’m currently working on [Pablo the Virtual Assistant](https://github.com/NadavMozeson/Pablo-Virtual-Assistant)
 
 - 🌱 I’m currently learning **AI**
 
