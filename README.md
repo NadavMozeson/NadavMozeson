@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NadavMozeson" alt="nadavmozeson" /></a> </p>
 
-- 🔭 I’m currently working on [Pablo the Virtual Assistant](https://github.com/NadavMozeson/Pablo-Virtual-Assistant)
-
 - 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NadavMozeson?tab=repositories](https://github.com/NadavMozeson?tab=repositories)
