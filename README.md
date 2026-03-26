@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nadav and I'm a Software Engineer, from Israel</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NadavMozeson&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=NadavMozeson&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br clear="both">
 
